@@ -26,9 +26,7 @@ Skills: PHP/LARAVEL/VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faruque5698&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Faruque5698)  
 
-![GitHub metrics](https://metrics.lecoq.io/Faruque5698)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Faruque5698)  
 
