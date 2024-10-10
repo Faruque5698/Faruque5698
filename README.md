@@ -28,9 +28,4 @@ I'm a web developer  I have 3 years+ working experience in web development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Faruque5698)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruque5698)](https://github.com/anuraghazra/github-readme-stats)
- 
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Faruque5698)  
 
