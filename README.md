@@ -30,7 +30,7 @@ I'm a web developer  I have 3 years+ working experience in web development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruque5698)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faruque5698&show_icons=true&count_private=true)  
+#![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faruque5698&show_icons=true&count_private=true)  
 
 
 
