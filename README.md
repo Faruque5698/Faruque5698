@@ -3,7 +3,7 @@
 #### Web Developer
 
 
-I'm a web developer  I have 3 years+ working experience in web development.
+I'm a web developer  I have 5 years+ working experience in web development.
  My working experience covers a verity of web development such as PHP , Laravel, Vue js, React Js, Jquery, Ajax, JavaScript, Bootstrap, HTML, CSS, MySql, Web Programming Skills, E-Commerce, Teamwork, Verbal Communication, Front-end-developer, Back-end-developer, API's, Website Builder, etc. 
  I also have experience in Android development.
 
@@ -16,7 +16,7 @@ I'm a web developer  I have 3 years+ working experience in web development.
 
 - 🔭 I’m currently working on [CRM Project](https://sveducrm.com/), [Mysolusy](https://mysolusy.com/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Vue JS & Solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faruque5698](https://github.com/Faruque5698)
 
