@@ -1,26 +1,20 @@
 <div align="center">
-  <!-- Neon Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F5FF,7B00FF&height=220&section=header&text=Hi%20there%20%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Md.%20Ashaduzzaman%20Faruque%20|%20Full-Stack%20Developer&descSize=22&descAlign=center" alt="Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;weight=600&#x26;size=32&#x26;duration=2800&#x26;pause=800&#x26;color=00F5FF&#x26;center=true&#x26;vCenter=true&#x26;width=700&#x26;lines=Hi+there+👋,+I&#x27;m+Ashaduzzaman+Faruque;Full+Stack+Web+Developer;5%2B+Years+of+Building+Scalable+Web+Apps" alt="Typing SVG">
+  
 
-  <h3>🚀 Passionate Full-Stack Developer crafting scalable digital experiences</h3>
-  
-  <p>
-    <strong>5+ years</strong> of turning ideas into high-performance web applications using modern technologies.
-  </p>
 
-  <!-- Social Badges -->
-  <p>
-    <a href="https://github.com/Faruque5698" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:ashaduzzaman5698@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <!-- Add your LinkedIn if you have one -->
-    <!-- <a href="https://linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a> -->
-  </p>
+  ### 🚀 Passionate Full-Stack Developer turning ideas into reality
+  
+    Experienced web developer with **5+ years** of expertise in building modern,
+    high-performance web applications using cutting-edge technologies.
+  
+  
+  
+    
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
+    
+    
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
 </div>
 
 ---
