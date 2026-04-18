@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Ashaduzzaman Faruque</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;5%2B+Years+Building+Scalable+Apps;Passionate+About+Clean+Code+%26+Modern+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;5%2B+Years+Building+Scalable+Apps;Passionate+About+Clean+Code+%26+Modern+Tech" alt="Typing SVG" />
   
   <br><br>
   
