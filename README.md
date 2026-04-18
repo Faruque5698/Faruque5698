@@ -1,18 +1,13 @@
 <div align="center">
-  <!-- Modern Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A2540,1E3A8A,3B82F6&height=280&section=header&text=Ashaduzzaman%20Faruque&fontSize=55&fontColor=ffffff&animation=wave&desc=Full-Stack%20Web%20Developer%20%7C%205%2B%20Years%20Experience&descSize=22&descAlign=center" alt="Header" />
+  <!-- Modern Sleek Neon Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1E1B4B,4C1D95,7B00FF,00F5FF&height=300&section=header&text=Ashaduzzaman%20Faruque&fontSize=62&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%205%2B%20Years%20of%20Crafting%20Scalable%20Apps&descSize=24&descAlign=center" alt="Modern Header" />
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Crafting+Modern+Digital+Experiences;Turning+Ideas+Into+Reality+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=Passionate+Full-Stack+Developer;Building+High-Performance+Web+Apps;Turning+Ideas+Into+Reality+🚀" alt="Typing SVG" />
   
-  <br>
-  
-  <p>
-    Passionate Full-Stack Developer with <strong>5+ years</strong> of experience creating high-performance,<br>
-    user-centric web applications using cutting-edge technologies.
-  </p>
+  <br><br>
 
-  <!-- Social Links -->
+  <!-- Social Badges -->
   <p>
     <a href="https://github.com/Faruque5698" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -28,8 +23,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently building**: [SV Edu CRM](https://sveducrm.com/) — Advanced Educational CRM & [Mysolusy](https://mysolusy.com/) — Modern Business Platform
-- 🌱 **Currently learning**: **Node.js**, **NestJS**, **Vue.js**, **DevOps** & **Solidity**
-- 💬 **Ask me about**: **Laravel**, **PHP**, JavaScript/TypeScript, Full-Stack Architecture
+- 🌱 **Currently learning**: **Node.js**, **NestJS**, **DevOps** & **Solidity**
+- 💬 **Ask me about**: **Laravel**, **PHP**, JavaScript, Full-Stack Architecture
 - 📫 **Reach me**: ashaduzzaman5698@gmail.com
 - 👨‍💻 **All of my projects**: [github.com/Faruque5698](https://github.com/Faruque5698)
 - ⚡ **Also experienced in**: Android Development (Java)
@@ -57,24 +52,16 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faruque5698&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 ### 🌟 Featured Projects
 
 <div align="center">
 
 **SV Edu CRM**  
-A powerful CRM system built for educational institutions to manage admissions, students, attendance, fees, and analytics.
-
+Powerful CRM system for educational institutions — admissions, student management, attendance, fees & analytics.  
 [🌐 Live Demo](https://sveducrm.com/)
 
 **Mysolusy**  
-Modern all-in-one business management platform with HR, accounting, inventory, and task management features.
-
+Modern all-in-one business platform for HR, accounting, inventory & task management.  
 [🌐 Live Demo](https://mysolusy.com/)
 
 </div>
@@ -85,9 +72,9 @@ Modern all-in-one business management platform with HR, accounting, inventory, a
 
 ### 💌 Let's Connect & Collaborate
 
-Always excited to work on challenging projects or discuss modern web technologies, especially **Node.js**, **NestJS**, **Laravel**, and blockchain.
+I'm always open to exciting opportunities and collaborations — especially around **Node.js**, **NestJS**, **Laravel**, and blockchain.
 
-Feel free to reach out via email or GitHub!
+Feel free to reach out via **email** or **GitHub**!
 
 ---
 
