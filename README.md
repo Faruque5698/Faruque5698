@@ -3,7 +3,7 @@
   <!-- Purple Gradient Header -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=6B00B6,9C27B0,FF00C1&height=260&section=header&text=Hello%20World%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Ashaduzzaman%20Faruque%20|%20Full-Stack%20Web%20Developer&descSize=22&descAlign=center" alt="Header" />
 
-  <h2>🚀 I'm Ashaduzzaman Faruque</h2>
+  <h2>🚀 I'm Ashaduzzaman Faruque</h2><br>
   <p><strong>Full-Stack Web Developer</strong> | 5+ Years Experience</p>
 
   <p>
