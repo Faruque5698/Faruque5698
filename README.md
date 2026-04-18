@@ -60,10 +60,8 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faruque5698&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faruque5698&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
 </div>
-
----
 
 ### 🌟 Featured Projects
 
