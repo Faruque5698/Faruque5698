@@ -1,11 +1,13 @@
 <div align="center">
-  <!-- Modern Sleek Neon Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1E1B4B,4C1D95,7B00FF,00F5FF&height=300&section=header&text=Ashaduzzaman%20Faruque&fontSize=62&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%205%2B%20Years%20of%20Crafting%20Scalable%20Apps&descSize=24&descAlign=center" alt="Modern Header" />
-
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=Passionate+Full-Stack+Developer;Building+High-Performance+Web+Apps;Turning+Ideas+Into+Reality+🚀" alt="Typing SVG" />
+  <h1>Hi there 👋, I'm Ashaduzzaman Faruque</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;5%2B+Years+Building+Scalable+Apps;Passionate+About+Clean+Code+%26+Modern+Tech" alt="Typing SVG" />
   
   <br><br>
+  
+  <p>
+    <strong>Experienced Full-Stack Developer</strong> crafting high-performance web applications with modern technologies.
+  </p>
 
   <!-- Social Badges -->
   <p>
@@ -23,10 +25,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently building**: [SV Edu CRM](https://sveducrm.com/) — Advanced Educational CRM & [Mysolusy](https://mysolusy.com/) — Modern Business Platform
-- 🌱 **Currently learning**: **Node.js**, **NestJS**, **DevOps** & **Solidity**
-- 💬 **Ask me about**: **Laravel**, **PHP**, JavaScript, Full-Stack Architecture
+- 🌱 **Currently learning**: **Node.js**, **NestJS**, **Vue.js**, **DevOps** & **Solidity**
+- 💬 **Ask me about**: **Laravel**, **PHP**, JavaScript/TypeScript, Full-Stack Architecture
 - 📫 **Reach me**: ashaduzzaman5698@gmail.com
-- 👨‍💻 **All of my projects**: [github.com/Faruque5698](https://github.com/Faruque5698)
+- 👨‍💻 **All projects**: [github.com/Faruque5698](https://github.com/Faruque5698)
 - ⚡ **Also experienced in**: Android Development (Java)
 
 ---
@@ -57,11 +59,11 @@
 <div align="center">
 
 **SV Edu CRM**  
-Powerful CRM system for educational institutions — admissions, student management, attendance, fees & analytics.  
+Advanced CRM for educational institutions — student management, admissions, attendance & analytics.  
 [🌐 Live Demo](https://sveducrm.com/)
 
 **Mysolusy**  
-Modern all-in-one business platform for HR, accounting, inventory & task management.  
+Modern all-in-one business solution platform for HR, accounting, inventory & tasks.  
 [🌐 Live Demo](https://mysolusy.com/)
 
 </div>
@@ -70,11 +72,11 @@ Modern all-in-one business platform for HR, accounting, inventory & task managem
 
 ---
 
-### 💌 Let's Connect & Collaborate
+### 💌 Let's Connect
 
-I'm always open to exciting opportunities and collaborations — especially around **Node.js**, **NestJS**, **Laravel**, and blockchain.
+Always excited to collaborate on interesting projects or discuss **Node.js**, **NestJS**, **Laravel** and modern web technologies.
 
-Feel free to reach out via **email** or **GitHub**!
+Feel free to reach out via email or GitHub!
 
 ---
 
@@ -85,5 +87,5 @@ Feel free to reach out via **email** or **GitHub**!
 </div>
 
 <p align="center">
-  <i>Made with ❤️, ☕, and endless curiosity</i>
+  <i>Made with ❤️ and lots of ☕</i>
 </p>
